@@ -1,0 +1,346 @@
+canonical_id,publisher,product_family,edition,version,metric_type,aliases
+MS-WINSVR-STD-2012,Microsoft,Windows Server,Standard,2012,Per Core (2-core pack; 8 core/proc & 16 core/server min),Windows Server 2012 Standard|Windows Server Std 2012|Win Svr Std 2012|WINSVRSTD2012
+MS-WINSVR-DC-2012,Microsoft,Windows Server,Datacenter,2012,Per Core (2-core pack; unlimited virtualization rights),Windows Server 2012 Datacenter|Windows Server DC 2012|Win Svr DC 2012|WINSVRDC2012
+MS-WINSVR-STD-2012R2,Microsoft,Windows Server,Standard,2012 R2,Per Core (2-core pack; 8 core/proc & 16 core/server min),Windows Server 2012 R2 Standard|Windows Server Std 2012 R2|Win Svr Std 2012 R2|WINSVRSTD2012R2
+MS-WINSVR-DC-2012R2,Microsoft,Windows Server,Datacenter,2012 R2,Per Core (2-core pack; unlimited virtualization rights),Windows Server 2012 R2 Datacenter|Windows Server DC 2012 R2|Win Svr DC 2012 R2|WINSVRDC2012R2
+MS-WINSVR-STD-2016,Microsoft,Windows Server,Standard,2016,Per Core (2-core pack; 8 core/proc & 16 core/server min),Windows Server 2016 Standard|Windows Server Std 2016|Win Svr Std 2016|WINSVRSTD2016
+MS-WINSVR-DC-2016,Microsoft,Windows Server,Datacenter,2016,Per Core (2-core pack; unlimited virtualization rights),Windows Server 2016 Datacenter|Windows Server DC 2016|Win Svr DC 2016|WINSVRDC2016
+MS-WINSVR-STD-2019,Microsoft,Windows Server,Standard,2019,Per Core (2-core pack; 8 core/proc & 16 core/server min),Windows Server 2019 Standard|Windows Server Std 2019|Win Svr Std 2019|WINSVRSTD2019
+MS-WINSVR-DC-2019,Microsoft,Windows Server,Datacenter,2019,Per Core (2-core pack; unlimited virtualization rights),Windows Server 2019 Datacenter|Windows Server DC 2019|Win Svr DC 2019|WINSVRDC2019
+MS-WINSVR-STD-2022,Microsoft,Windows Server,Standard,2022,Per Core (2-core pack; 8 core/proc & 16 core/server min),Windows Server 2022 Standard|Windows Server Std 2022|Win Svr Std 2022|WINSVRSTD2022
+MS-WINSVR-DC-2022,Microsoft,Windows Server,Datacenter,2022,Per Core (2-core pack; unlimited virtualization rights),Windows Server 2022 Datacenter|Windows Server DC 2022|Win Svr DC 2022|WINSVRDC2022
+MS-WINSVR-STD-2025,Microsoft,Windows Server,Standard,2025,Per Core (2-core pack; 8 core/proc & 16 core/server min),Windows Server 2025 Standard|Windows Server Std 2025|Win Svr Std 2025|WINSVRSTD2025
+MS-WINSVR-DC-2025,Microsoft,Windows Server,Datacenter,2025,Per Core (2-core pack; unlimited virtualization rights),Windows Server 2025 Datacenter|Windows Server DC 2025|Win Svr DC 2025|WINSVRDC2025
+MS-SQL-STD-2012,Microsoft,SQL Server,Standard,2012,Per Core (2-core pack) or Server+CAL,SQL Server 2012 Standard|SQL Svr Std 2012|Microsoft SQL Server 2012 Standard Edition|SQLSVRSTD2012
+MS-SQL-ENT-2012,Microsoft,SQL Server,Enterprise,2012,Per Core (2-core pack only),SQL Server 2012 Enterprise|SQL Svr Ent 2012|Microsoft SQL Server 2012 Enterprise Edition|SQLSVRENT2012
+MS-SQL-STD-2014,Microsoft,SQL Server,Standard,2014,Per Core (2-core pack) or Server+CAL,SQL Server 2014 Standard|SQL Svr Std 2014|Microsoft SQL Server 2014 Standard Edition|SQLSVRSTD2014
+MS-SQL-ENT-2014,Microsoft,SQL Server,Enterprise,2014,Per Core (2-core pack only),SQL Server 2014 Enterprise|SQL Svr Ent 2014|Microsoft SQL Server 2014 Enterprise Edition|SQLSVRENT2014
+MS-SQL-STD-2016,Microsoft,SQL Server,Standard,2016,Per Core (2-core pack) or Server+CAL,SQL Server 2016 Standard|SQL Svr Std 2016|Microsoft SQL Server 2016 Standard Edition|SQLSVRSTD2016
+MS-SQL-ENT-2016,Microsoft,SQL Server,Enterprise,2016,Per Core (2-core pack only),SQL Server 2016 Enterprise|SQL Svr Ent 2016|Microsoft SQL Server 2016 Enterprise Edition|SQLSVRENT2016
+MS-SQL-STD-2017,Microsoft,SQL Server,Standard,2017,Per Core (2-core pack) or Server+CAL,SQL Server 2017 Standard|SQL Svr Std 2017|Microsoft SQL Server 2017 Standard Edition|SQLSVRSTD2017
+MS-SQL-ENT-2017,Microsoft,SQL Server,Enterprise,2017,Per Core (2-core pack only),SQL Server 2017 Enterprise|SQL Svr Ent 2017|Microsoft SQL Server 2017 Enterprise Edition|SQLSVRENT2017
+MS-SQL-STD-2019,Microsoft,SQL Server,Standard,2019,Per Core (2-core pack) or Server+CAL,SQL Server 2019 Standard|SQL Svr Std 2019|Microsoft SQL Server 2019 Standard Edition|SQLSVRSTD2019
+MS-SQL-ENT-2019,Microsoft,SQL Server,Enterprise,2019,Per Core (2-core pack only),SQL Server 2019 Enterprise|SQL Svr Ent 2019|Microsoft SQL Server 2019 Enterprise Edition|SQLSVRENT2019
+MS-SQL-STD-2022,Microsoft,SQL Server,Standard,2022,Per Core (2-core pack) or Server+CAL,SQL Server 2022 Standard|SQL Svr Std 2022|Microsoft SQL Server 2022 Standard Edition|SQLSVRSTD2022
+MS-SQL-ENT-2022,Microsoft,SQL Server,Enterprise,2022,Per Core (2-core pack only),SQL Server 2022 Enterprise|SQL Svr Ent 2022|Microsoft SQL Server 2022 Enterprise Edition|SQLSVRENT2022
+MS-SQL-WEB,Microsoft,SQL Server,Web,,Per Core (hosting only),SQL Server Web Edition|SQL Svr Web
+MS-SQL-DEV,Microsoft,SQL Server,Developer,,Free (non-production use only),SQL Server Developer Edition|SQL Svr Dev
+MS-SQL-EXPRESS,Microsoft,SQL Server,Express,,Free (no license required),SQL Server Express|SQLEXPRESS|SQL Svr Express
+MS-SQL-CAL,Microsoft,SQL Server,Client Access License,,Per User or Per Device,SQL Server CAL|SQL CAL
+MS-WIN7-PRO,Microsoft,Windows 7,Pro,,Per Device (OEM or Volume License),Windows 7 Pro|Windows 7 Professional|Win7 Pro
+MS-WIN7-ENT,Microsoft,Windows 7,Enterprise,,Per Device (VL or M365 entitlement),Windows 7 Enterprise|Win7 Ent
+MS-WIN81-PRO,Microsoft,Windows 8.1,Pro,,Per Device (OEM or Volume License),Windows 8.1 Pro|Windows 8.1 Professional|Win8.1 Pro
+MS-WIN81-ENT,Microsoft,Windows 8.1,Enterprise,,Per Device (VL or M365 entitlement),Windows 8.1 Enterprise|Win8.1 Ent
+MS-WIN10-PRO,Microsoft,Windows 10,Pro,,Per Device (OEM or Volume License),Windows 10 Pro|Windows 10 Professional|Win10 Pro
+MS-WIN10-ENT,Microsoft,Windows 10,Enterprise,,Per Device (VL or M365 entitlement),Windows 10 Enterprise|Win10 Ent
+MS-WIN11-PRO,Microsoft,Windows 11,Pro,,Per Device (OEM or Volume License),Windows 11 Pro|Windows 11 Professional|Win11 Pro
+MS-WIN11-ENT,Microsoft,Windows 11,Enterprise,,Per Device (VL or M365 entitlement),Windows 11 Enterprise|Win11 Ent
+MS-M365-E1,Microsoft,Microsoft 365,E1,,Per User Subscription,Microsoft 365 E1|M365 E1|O365 E1|Office 365 E1
+MS-M365-E3,Microsoft,Microsoft 365,E3,,Per User Subscription,Microsoft 365 E3|M365 E3|O365 E3|Office 365 E3
+MS-M365-E5,Microsoft,Microsoft 365,E5,,Per User Subscription,Microsoft 365 E5|M365 E5|O365 E5|Office 365 E5
+MS-M365-F1,Microsoft,Microsoft 365,F1,,Per User Subscription,Microsoft 365 F1|M365 F1|O365 F1|Office 365 F1
+MS-M365-F3,Microsoft,Microsoft 365,F3,,Per User Subscription,Microsoft 365 F3|M365 F3|O365 F3|Office 365 F3
+MS-M365-BUSINESS-BASIC,Microsoft,Microsoft 365,Business Basic,,Per User Subscription,Microsoft 365 Business Basic|M365 Business Basic
+MS-M365-BUSINESS-STANDARD,Microsoft,Microsoft 365,Business Standard,,Per User Subscription,Microsoft 365 Business Standard|M365 Business Standard
+MS-M365-BUSINESS-PREMIUM,Microsoft,Microsoft 365,Business Premium,,Per User Subscription,Microsoft 365 Business Premium|M365 Business Premium
+MS-M365-APPS-FOR-ENTERPRISE,Microsoft,Microsoft 365,Apps for enterprise,,Per User Subscription,Microsoft 365 Apps for enterprise|M365 Apps for enterprise
+MS-M365-APPS-FOR-BUSINESS,Microsoft,Microsoft 365,Apps for business,,Per User Subscription,Microsoft 365 Apps for business|M365 Apps for business
+MS-OFFICE-STD-2013,Microsoft,Office,Standard,2013,Per Device,Office Standard 2013|Office Std 2013|OFFSTD2013
+MS-OFFICE-PROPLUS-2013,Microsoft,Office,Professional Plus,2013,Per Device,Office Professional Plus 2013|Office Pro Plus 2013|OFFPROPLUS2013
+MS-OFFICE-STD-2016,Microsoft,Office,Standard,2016,Per Device,Office Standard 2016|Office Std 2016|OFFSTD2016
+MS-OFFICE-PROPLUS-2016,Microsoft,Office,Professional Plus,2016,Per Device,Office Professional Plus 2016|Office Pro Plus 2016|OFFPROPLUS2016
+MS-OFFICE-STD-2019,Microsoft,Office,Standard,2019,Per Device,Office Standard 2019|Office Std 2019|OFFSTD2019
+MS-OFFICE-PROPLUS-2019,Microsoft,Office,Professional Plus,2019,Per Device,Office Professional Plus 2019|Office Pro Plus 2019|OFFPROPLUS2019
+MS-OFFICE-STD-2021,Microsoft,Office,Standard,2021,Per Device,Office Standard 2021|Office Std 2021|OFFSTD2021
+MS-OFFICE-PROPLUS-2021,Microsoft,Office,Professional Plus,2021,Per Device,Office Professional Plus 2021|Office Pro Plus 2021|OFFPROPLUS2021
+MS-OFFICE-STD-2024,Microsoft,Office,Standard,2024,Per Device,Office Standard 2024|Office Std 2024|OFFSTD2024
+MS-OFFICE-PROPLUS-2024,Microsoft,Office,Professional Plus,2024,Per Device,Office Professional Plus 2024|Office Pro Plus 2024|OFFPROPLUS2024
+MS-OFFICE-LTSC-2021,Microsoft,Office,LTSC Standard,2021,Per Device,Office LTSC 2021|Office LTSC Standard 2021
+MS-OFFICE-LTSC-2024,Microsoft,Office,LTSC Standard,2024,Per Device,Office LTSC 2024|Office LTSC Standard 2024
+MS-EXCH-STD,Microsoft,Exchange Server,Standard,,Server + CAL,Exchange Server Standard|Exch Svr Std|EXCHSVRSTD
+MS-EXCH-ENT,Microsoft,Exchange Server,Enterprise,,Server + CAL,Exchange Server Enterprise|Exch Svr Ent|EXCHSVRENT
+MS-EXCH-CAL-STD,Microsoft,Exchange Server,Standard CAL,,Per User or Per Device,Exchange Standard CAL|Exch Std CAL
+MS-EXCH-CAL-ENT,Microsoft,Exchange Server,Enterprise CAL,,Per User or Per Device (additive to Standard CAL),Exchange Enterprise CAL|Exch Ent CAL
+MS-SP-STD,Microsoft,SharePoint Server,Standard,,Server + CAL,SharePoint Server Standard|SP Svr Std
+MS-SP-ENT,Microsoft,SharePoint Server,Enterprise,,Server + CAL,SharePoint Server Enterprise|SP Svr Ent
+MS-SKYPE-SVR,Microsoft,Skype for Business Server,,,Server + CAL,Skype for Business Server|Lync Server
+MS-PROJECT-STD,Microsoft,Project,Standard,,Per Device,Project Standard|MS Project Standard|Project Std
+MS-PROJECT-PRO,Microsoft,Project,Professional,,Per Device or Per User Subscription,Project Professional|MS Project Professional|Project Pro
+MS-PROJECT-P1,Microsoft,Project,Plan 1,,Per User Subscription,Project Plan 1|Project Online Essentials
+MS-PROJECT-P3,Microsoft,Project,Plan 3,,Per User Subscription,Project Plan 3|Project Online Professional
+MS-PROJECT-P5,Microsoft,Project,Plan 5,,Per User Subscription,Project Plan 5|Project Online Premium
+MS-VISIO-STD,Microsoft,Visio,Standard,,Per Device,Visio Standard|MS Visio Standard|Visio Std
+MS-VISIO-PRO,Microsoft,Visio,Professional,,Per Device,Visio Professional|MS Visio Professional|Visio Pro
+MS-VISIO-P1,Microsoft,Visio,Plan 1,,Per User Subscription,Visio Plan 1
+MS-VISIO-P2,Microsoft,Visio,Plan 2,,Per User Subscription,Visio Plan 2
+MS-DYN365-SALES-PROFESSIONAL,Microsoft,Dynamics 365,Sales Professional,,Per User Subscription,Dynamics 365 Sales Professional|Dyn365 Sales Professional
+MS-DYN365-SALES-ENTERPRISE,Microsoft,Dynamics 365,Sales Enterprise,,Per User Subscription,Dynamics 365 Sales Enterprise|Dyn365 Sales Enterprise
+MS-DYN365-CUSTOMER-SERVICE-PROFESSIONAL,Microsoft,Dynamics 365,Customer Service Professional,,Per User Subscription,Dynamics 365 Customer Service Professional|Dyn365 Customer Service Professional
+MS-DYN365-CUSTOMER-SERVICE-ENTERPRISE,Microsoft,Dynamics 365,Customer Service Enterprise,,Per User Subscription,Dynamics 365 Customer Service Enterprise|Dyn365 Customer Service Enterprise
+MS-DYN365-FIELD-SERVICE,Microsoft,Dynamics 365,Field Service,,Per User Subscription,Dynamics 365 Field Service|Dyn365 Field Service
+MS-DYN365-FINANCE,Microsoft,Dynamics 365,Finance,,Per User Subscription,Dynamics 365 Finance|Dyn365 Finance
+MS-DYN365-SUPPLY-CHAIN-MANAGEMENT,Microsoft,Dynamics 365,Supply Chain Management,,Per User Subscription,Dynamics 365 Supply Chain Management|Dyn365 Supply Chain Management
+MS-DYN365-BUSINESS-CENTRAL-ESSENTIALS,Microsoft,Dynamics 365,Business Central Essentials,,Per User Subscription,Dynamics 365 Business Central Essentials|Dyn365 Business Central Essentials
+MS-DYN365-BUSINESS-CENTRAL-PREMIUM,Microsoft,Dynamics 365,Business Central Premium,,Per User Subscription,Dynamics 365 Business Central Premium|Dyn365 Business Central Premium
+MS-DYN365-PROJECT-OPERATIONS,Microsoft,Dynamics 365,Project Operations,,Per User Subscription,Dynamics 365 Project Operations|Dyn365 Project Operations
+MS-PBI-PRO,Microsoft,Power BI,Pro,,Per User Subscription,Power BI Pro|PBI Pro
+MS-PBI-PPU,Microsoft,Power BI,Premium Per User,,Per User Subscription,Power BI Premium Per User|PBI PPU
+MS-PBI-CAPACITY,Microsoft,Power BI,Premium Capacity,,Per Capacity (P/F SKU) Subscription,Power BI Premium|Power BI Premium Capacity
+MS-POWERAPPS,Microsoft,Power Apps,,,Per User or Per App Subscription,Power Apps|PowerApps|Microsoft Power Apps
+MS-POWERAUTOMATE,Microsoft,Power Automate,,,Per User or Per Flow Subscription,Power Automate|Microsoft Flow
+MS-VS-PRO,Microsoft,Visual Studio,Professional,,Per User Subscription,Visual Studio Professional|VS Professional
+MS-VS-ENT,Microsoft,Visual Studio,Enterprise,,Per User Subscription,Visual Studio Enterprise|VS Enterprise
+MS-VSCODE,Microsoft,Visual Studio Code,,,Free (no license required),Visual Studio Code|VS Code|VSCode
+MS-SYSCTR-STD,Microsoft,System Center,Standard,,Per Core (2-core pack),System Center Standard|SysCtr Std
+MS-SYSCTR-DC,Microsoft,System Center,Datacenter,,Per Core (2-core pack),System Center Datacenter|SysCtr DC
+MS-BIZTALK-STD,Microsoft,BizTalk Server,Standard,,Per Core (2-core pack),BizTalk Server Standard|BizTalk Std
+MS-BIZTALK-ENT,Microsoft,BizTalk Server,Enterprise,,Per Core (2-core pack),BizTalk Server Enterprise|BizTalk Ent
+MS-AZURE-DEVOPS,Microsoft,Azure DevOps Server,,,Server + CAL or Per User Subscription,Azure DevOps Server|Team Foundation Server|TFS
+MS-DEFENDER-EP,Microsoft,Defender for Endpoint,,,Per User or Per Device Subscription,Defender for Endpoint|Microsoft Defender for Endpoint|MDE
+MS-INTUNE,Microsoft,Intune,,,Per User Subscription,Microsoft Intune|Intune|Endpoint Manager
+MS-ENTRA-P1,Microsoft,Entra ID,P1,,Per User Subscription,Entra ID P1|Azure AD Premium P1|Azure Active Directory Premium P1
+MS-ENTRA-P2,Microsoft,Entra ID,P2,,Per User Subscription,Entra ID P2|Azure AD Premium P2
+MS-COPILOT-M365,Microsoft,365 Copilot,,,Per User Subscription (add-on),Microsoft 365 Copilot|M365 Copilot|Copilot for Microsoft 365
+MS-TEAMS-PHONE,Microsoft,Teams Phone,,,Per User Subscription,Teams Phone|Microsoft Teams Phone|Phone System
+MS-RDS-CAL,Microsoft,Remote Desktop Services,CAL,,Per User or Per Device CAL,RDS CAL|Remote Desktop Services CAL|Terminal Server CAL
+ORACLE-DB-EE-11G,Oracle,Database,Enterprise Edition,11g,Named User Plus (min 25 NUP/proc for EE) or Processor (core factor applies),Oracle Database 11g Enterprise Edition|Oracle DB EE 11g|Oracle Database Enterprise Edition 11g
+ORACLE-DB-EE-12C,Oracle,Database,Enterprise Edition,12c,Named User Plus (min 25 NUP/proc for EE) or Processor (core factor applies),Oracle Database 12c Enterprise Edition|Oracle DB EE 12c|Oracle Database Enterprise Edition 12c
+ORACLE-DB-EE-18C,Oracle,Database,Enterprise Edition,18c,Named User Plus (min 25 NUP/proc for EE) or Processor (core factor applies),Oracle Database 18c Enterprise Edition|Oracle DB EE 18c|Oracle Database Enterprise Edition 18c
+ORACLE-DB-EE-19C,Oracle,Database,Enterprise Edition,19c,Named User Plus (min 25 NUP/proc for EE) or Processor (core factor applies),Oracle Database 19c Enterprise Edition|Oracle DB EE 19c|Oracle Database Enterprise Edition 19c
+ORACLE-DB-EE-21C,Oracle,Database,Enterprise Edition,21c,Named User Plus (min 25 NUP/proc for EE) or Processor (core factor applies),Oracle Database 21c Enterprise Edition|Oracle DB EE 21c|Oracle Database Enterprise Edition 21c
+ORACLE-DB-EE-23AI,Oracle,Database,Enterprise Edition,23ai,Named User Plus (min 25 NUP/proc for EE) or Processor (core factor applies),Oracle Database 23ai Enterprise Edition|Oracle DB EE 23ai|Oracle Database Enterprise Edition 23ai
+ORACLE-DB-SE2,Oracle,Database,Standard Edition 2,,Named User Plus (min 10 NUP/server) or Socket (max 2 sockets),Oracle Database Standard Edition 2|Oracle DB SE2|ORACLEDBSE2
+ORACLE-DB-SE,Oracle,Database,Standard Edition,,Named User Plus or Socket (legacy - superseded by SE2),Oracle Database Standard Edition|Oracle DB SE
+ORACLE-DB-XE,Oracle,Database,Express Edition,,Free (resource-limited; no license required),Oracle Database Express Edition|Oracle DB XE|Oracle XE
+ORACLE-DB-PERSONAL,Oracle,Database,Personal Edition,,Named User Plus (single user),Oracle Database Personal Edition
+ORACLE-OPT-REAL-APPLICATION-CLUSTERS,Oracle,Real Application Clusters,,,Named User Plus (min 25 NUP/proc for EE) or Processor (core factor applies) [EE option - requires Database EE],Oracle Real Application Clusters|Real Application Clusters
+ORACLE-OPT-PARTITIONING,Oracle,Partitioning,,,Named User Plus (min 25 NUP/proc for EE) or Processor (core factor applies) [EE option - requires Database EE],Oracle Partitioning|Partitioning
+ORACLE-OPT-ADVANCED-SECURITY,Oracle,Advanced Security,,,Named User Plus (min 25 NUP/proc for EE) or Processor (core factor applies) [EE option - requires Database EE],Oracle Advanced Security|Advanced Security
+ORACLE-OPT-ADVANCED-COMPRESSION,Oracle,Advanced Compression,,,Named User Plus (min 25 NUP/proc for EE) or Processor (core factor applies) [EE option - requires Database EE],Oracle Advanced Compression|Advanced Compression
+ORACLE-OPT-ACTIVE-DATA-GUARD,Oracle,Active Data Guard,,,Named User Plus (min 25 NUP/proc for EE) or Processor (core factor applies) [EE option - requires Database EE],Oracle Active Data Guard|Active Data Guard
+ORACLE-OPT-IN-MEMORY-DATABASE,Oracle,In-Memory Database,,,Named User Plus (min 25 NUP/proc for EE) or Processor (core factor applies) [EE option - requires Database EE],Oracle In-Memory Database|In-Memory Database
+ORACLE-OPT-MULTITENANT,Oracle,Multitenant,,,Named User Plus (min 25 NUP/proc for EE) or Processor (core factor applies) [EE option - requires Database EE],Oracle Multitenant|Multitenant
+ORACLE-OPT-SPATIAL-AND-GRAPH,Oracle,Spatial and Graph,,,Named User Plus (min 25 NUP/proc for EE) or Processor (core factor applies) [EE option - requires Database EE],Oracle Spatial and Graph|Spatial and Graph
+ORACLE-OPT-OLAP,Oracle,OLAP,,,Named User Plus (min 25 NUP/proc for EE) or Processor (core factor applies) [EE option - requires Database EE],Oracle OLAP|OLAP
+ORACLE-OPT-LABEL-SECURITY,Oracle,Label Security,,,Named User Plus (min 25 NUP/proc for EE) or Processor (core factor applies) [EE option - requires Database EE],Oracle Label Security|Label Security
+ORACLE-PACK-DIAGNOSTICS-PACK,Oracle,Diagnostics Pack,,,Named User Plus (min 25 NUP/proc for EE) or Processor (core factor applies) [EE management pack],Oracle Diagnostics Pack|Diagnostics Pack
+ORACLE-PACK-TUNING-PACK,Oracle,Tuning Pack,,,Named User Plus (min 25 NUP/proc for EE) or Processor (core factor applies) [EE management pack],Oracle Tuning Pack|Tuning Pack
+ORACLE-PACK-DATABASE-LIFECYCLE-MANAGEMENT-PACK,Oracle,Database Lifecycle Management Pack,,,Named User Plus (min 25 NUP/proc for EE) or Processor (core factor applies) [EE management pack],Oracle Database Lifecycle Management Pack|Database Lifecycle Management Pack
+ORACLE-PACK-DATA-MASKING-AND-SUBSETTING-PACK,Oracle,Data Masking and Subsetting Pack,,,Named User Plus (min 25 NUP/proc for EE) or Processor (core factor applies) [EE management pack],Oracle Data Masking and Subsetting Pack|Data Masking and Subsetting Pack
+ORACLE-WLS-STD,Oracle,WebLogic Server,Standard Edition,,Socket (physical CPU sockets),Oracle WebLogic Server Standard Edition|WebLogic SE|Oracle WebLogic SE
+ORACLE-WLS-ENT,Oracle,WebLogic Server,Enterprise Edition,,Processor (core factor applies) or Named User Plus,Oracle WebLogic Server Enterprise Edition|WebLogic EE|Oracle WebLogic EE
+ORACLE-WLS-SUITE,Oracle,WebLogic Server,Suite,,Processor (core factor applies),Oracle WebLogic Suite|WebLogic Suite
+ORACLE-SOA,Oracle,SOA Suite,,,Processor (core factor applies),Oracle SOA Suite|SOA Suite
+ORACLE-JAVA-SE,Oracle,Java SE,Universal Subscription,,"Per Employee (total employee count, not installs)",Oracle Java SE Universal Subscription|Java SE Subscription|Oracle Java SE
+ORACLE-JDK,Oracle,JDK,,,Free under NFTC for recent versions; older versions may require subscription,Oracle JDK|Java Development Kit|Oracle Java Development Kit
+ORACLE-EBS,Oracle,E-Business Suite,,,Application User or Named User Plus,Oracle E-Business Suite|Oracle EBS
+ORACLE-PRIMAVERA,Oracle,Primavera P6,,,Named User Plus or Application User,Oracle Primavera P6|Primavera P6|Primavera
+ORACLE-PEOPLESOFT,Oracle,PeopleSoft,,,Application User or Employee metric,Oracle PeopleSoft|PeopleSoft
+ORACLE-SIEBEL,Oracle,Siebel CRM,,,Application User,Oracle Siebel|Siebel CRM|Siebel
+ORACLE-GOLDENGATE,Oracle,GoldenGate,,,Processor (core factor applies) or Named User Plus,Oracle GoldenGate|GoldenGate
+ORACLE-VIRTUALBOX,Oracle,VM VirtualBox,,,Base package free; Extension Pack requires license for commercial use,Oracle VM VirtualBox|VirtualBox|Oracle VirtualBox
+ORACLE-MYSQL-ENT,Oracle,MySQL,Enterprise Edition,,Per Server Subscription,MySQL Enterprise Edition|MySQL Enterprise
+ORACLE-MYSQL-CE,Oracle,MySQL,Community Edition,,Free (GPL; no license required),MySQL Community Edition|MySQL Community|MySQL Server
+IBM-DB2-COMMUNITY,IBM,Db2,Community Edition,,Free (resource-limited; no license required),Db2 Community Edition|IBM Db2 Community
+IBM-DB2-STD,IBM,Db2,Standard Edition,,PVU or Virtual Processor Core (VPC),Db2 Standard Edition|IBM Db2 Standard|Db2 SE
+IBM-DB2-AE,IBM,Db2,Advanced Edition,,PVU or Virtual Processor Core (VPC),Db2 Advanced Edition|IBM Db2 Advanced|Db2 AE
+IBM-DB2-AESE,IBM,Db2,Advanced Enterprise Server Edition,,PVU (sub-capacity requires ILMT),Db2 AESE|IBM Db2 Advanced Enterprise Server Edition
+IBM-DB2-AWSE,IBM,Db2,Advanced Workgroup Server Edition,,PVU (sub-capacity requires ILMT),Db2 AWSE|IBM Db2 Advanced Workgroup Server Edition
+IBM-WAS-BASE,IBM,WebSphere Application Server,Base,,PVU (sub-capacity requires ILMT),WebSphere Application Server Base|WAS Base|IBM WebSphere Application Server
+IBM-WAS-ND,IBM,WebSphere Application Server,Network Deployment,,PVU (sub-capacity requires ILMT),WebSphere ND|WAS ND|IBM WebSphere Application Server Network Deployment
+IBM-WAS-LIBERTY,IBM,WebSphere Application Server,Liberty,,PVU or VPC,WebSphere Liberty|WAS Liberty|Open Liberty
+IBM-WAS-EXPRESS,IBM,WebSphere Application Server,Express,,PVU,WebSphere Application Server Express|WAS Express
+IBM-MQ,IBM,MQ,,,PVU or VPC,IBM MQ|WebSphere MQ|MQSeries
+IBM-MQ-ADV,IBM,MQ,Advanced,,PVU or VPC,IBM MQ Advanced|MQ Advanced
+IBM-INFORMIX,IBM,Informix,,,PVU or Authorized User Single Install,IBM Informix|Informix Dynamic Server|Informix
+IBM-SPSS-STATS,IBM,SPSS Statistics,,,Authorized User or Concurrent User,IBM SPSS Statistics|SPSS Statistics|SPSS
+IBM-SPSS-MODELER,IBM,SPSS Modeler,,,Authorized User or Concurrent User,IBM SPSS Modeler|SPSS Modeler
+IBM-COGNOS,IBM,Cognos Analytics,,,"Authorized User, Concurrent User, or PVU",IBM Cognos Analytics|Cognos Analytics|Cognos
+IBM-MAXIMO,IBM,Maximo,,,"Authorized User, Concurrent User, or App Points",IBM Maximo|Maximo Asset Management|Maximo
+IBM-BIGFIX,IBM,BigFix,,,Per Client Device or Managed Virtual Server,IBM BigFix|BigFix Inventory|BigFix Platform
+IBM-ILMT,IBM,License Metric Tool,,,No charge (required for IBM sub-capacity PVU licensing),IBM License Metric Tool|ILMT
+IBM-TIVOLI-MON,IBM,Tivoli Monitoring,,,PVU or Resource Value Unit (RVU),IBM Tivoli Monitoring|Tivoli Monitoring|ITM
+IBM-TIVOLI-STORAGE,IBM,Storage Protect (Tivoli Storage Manager),,,"PVU, Terabyte, or Front-End capacity",IBM Storage Protect|Tivoli Storage Manager|TSM|IBM Spectrum Protect
+IBM-DATASTAGE,IBM,DataStage,,,PVU or Virtual Processor Core,IBM DataStage|InfoSphere DataStage|DataStage
+IBM-API-CONNECT,IBM,API Connect,,,Virtual Processor Core (VPC),IBM API Connect|API Connect
+IBM-DATAPOWER,IBM,DataPower Gateway,,,PVU or Appliance,IBM DataPower|DataPower Gateway|DataPower
+IBM-CONTROL-DESK,IBM,Control Desk,,,Authorized User or Concurrent User,IBM Control Desk|Control Desk
+IBM-RATIONAL-CC,IBM,Rational ClearCase,,,Authorized User or Floating User,IBM Rational ClearCase|Rational ClearCase|ClearCase
+IBM-RATIONAL-DOORS,IBM,Rational DOORS,,,Authorized User or Floating User,IBM Rational DOORS|Rational DOORS|DOORS
+IBM-PLANNING-ANALYTICS,IBM,Planning Analytics,,,Authorized User or PVU,IBM Planning Analytics|Planning Analytics|TM1
+IBM-WATSONX,IBM,watsonx,,,Resource Unit or Subscription,IBM watsonx|watsonx.ai|watsonx
+IBM-AIX,IBM,AIX,,,Per Processor Core (by machine tier),IBM AIX|AIX Operating System|AIX
+IBM-ZOS,IBM,z/OS,,,MSU (Millions of Service Units) / MLC or OTC,IBM z/OS|z/OS
+VMWARE-VCF,VMware (Broadcom),Cloud Foundation (VCF),,,Per Core Subscription (16-core minimum per CPU; subscription only since 2024) - full stack bundle incl. vSAN/NSX,VMware Cloud Foundation|VCF|VMware VCF|Cloud Foundation
+VMWARE-VVF,VMware (Broadcom),vSphere Foundation (VVF),,,Per Core Subscription (16-core minimum per CPU; subscription only since 2024) - being phased out per Broadcom roadmap,vSphere Foundation|VVF|VMware vSphere Foundation
+VMWARE-VSPHERE-STD,VMware (Broadcom),vSphere,Standard,,Per Core Subscription (16-core minimum per CPU; subscription only since 2024),vSphere Standard|VMware vSphere Standard|VSPHERESTD
+VMWARE-VSPHERE-ENTPLUS,VMware (Broadcom),vSphere,Enterprise Plus,,Per Core Subscription (16-core minimum per CPU; subscription only since 2024),vSphere Enterprise Plus|VMware vSphere Enterprise Plus|VSEP
+VMWARE-VSPHERE-ESSPLUS,VMware (Broadcom),vSphere,Essentials Plus,,Legacy perpetual (discontinued; migrate to VVF/VCF),vSphere Essentials Plus|VMware vSphere Essentials Plus|VVEP
+VMWARE-VSAN,VMware (Broadcom),vSAN,,,Per TiB Capacity Subscription (0.25 TiB/core included with VCF),VMware vSAN|vSAN|Virtual SAN
+VMWARE-NSX,VMware (Broadcom),NSX,,,Per Core Subscription (bundled in VCF),VMware NSX|NSX-T|NSX Data Center
+VMWARE-ESXI,VMware (Broadcom),ESXi Hypervisor,,,Licensed via vSphere / VVF / VCF bundle,VMware ESXi|ESXi|ESX|VMware ESX Server
+VMWARE-VCENTER,VMware (Broadcom),vCenter Server,,,Licensed via vSphere / VVF / VCF bundle,VMware vCenter Server|vCenter|VCSA|vCenter Server Appliance
+VMWARE-HORIZON,VMware (Broadcom),Horizon,,,Per Named User or Concurrent User Subscription,VMware Horizon|Horizon View|Horizon Enterprise
+VMWARE-WORKSTATION,VMware (Broadcom),Workstation Pro,,,Free for personal use since 2024; commercial requires subscription,VMware Workstation|VMware Workstation Pro|Workstation Pro
+VMWARE-FUSION,VMware (Broadcom),Fusion Pro,,,Free for personal use since 2024; commercial requires subscription,VMware Fusion|VMware Fusion Pro|Fusion Pro
+VMWARE-ARIA,VMware (Broadcom),Aria (vRealize),,,Per Core or Per OSI Subscription,VMware Aria|vRealize|vRealize Operations|Aria Operations|vROps
+VMWARE-TOOLS,(Component),VMware Tools,,,Not separately licensable (bundled guest agent),VMware Tools
+VMWARE-SRM,VMware (Broadcom),Site Recovery Manager,,,Per VM Subscription,VMware Site Recovery Manager|SRM|vCenter Site Recovery Manager
+RHEL-SERVER-STD,Red Hat,Enterprise Linux Server,Standard,,Per Socket-Pair Subscription (covers up to 2 sockets OR 2 virtual nodes); Standard 8x5 support,Red Hat Enterprise Linux Server Standard|RHEL Server Standard|RHEL Standard
+RHEL-SERVER-PREM,Red Hat,Enterprise Linux Server,Premium,,Per Socket-Pair Subscription (covers up to 2 sockets OR 2 virtual nodes); Premium 24x7 support,Red Hat Enterprise Linux Server Premium|RHEL Server Premium|RHEL Premium
+RHEL-SERVER-SELF,Red Hat,Enterprise Linux Server,Self-Support,,Per Socket-Pair Subscription (covers up to 2 sockets OR 2 virtual nodes); no Red Hat support,Red Hat Enterprise Linux Self-Support|RHEL Self Support
+RHEL-VDC,Red Hat,Enterprise Linux for Virtual Datacenters,,,Per Socket-Pair (UNLIMITED RHEL guests on subscribed host),Red Hat Enterprise Linux for Virtual Datacenters|RHEL Virtual Datacenter|RHEL VDC
+RHEL-SAP,Red Hat,Enterprise Linux for SAP Solutions,,,Per Socket-Pair Subscription (covers up to 2 sockets OR 2 virtual nodes),Red Hat Enterprise Linux for SAP Solutions|RHEL for SAP|RHEL SAP
+RHEL-DEV,Red Hat,Enterprise Linux Developer Subscription,,,Free (individual development use only; NOT production),Red Hat Developer Subscription|RHEL Developer
+RHEL-HA,Red Hat,High Availability Add-On,,,Per Socket-Pair Add-On,Red Hat High Availability|RHEL HA Add-On
+RHEL-RESILIENT-STORAGE,Red Hat,Resilient Storage Add-On,,,Per Socket-Pair Add-On,Red Hat Resilient Storage|Resilient Storage Add-On
+RHEL-SMARTMGMT,Red Hat,Smart Management Add-On,,,Per Managed System Add-On,Red Hat Smart Management|Smart Management Add-On
+RH-SATELLITE,Red Hat,Satellite,,,Per Managed System Subscription,Red Hat Satellite|Satellite Server
+RH-OPENSHIFT-CORE,Red Hat,OpenShift Container Platform,,,Per Core-Pair Subscription (Standard 8x5 or Premium 24x7),Red Hat OpenShift|OpenShift Container Platform|OCP|OpenShift
+RH-OPENSHIFT-NODE,Red Hat,OpenShift (Bare-Metal Node),,,Per Physical Node (bare-metal only; no third-party hypervisor),OpenShift Bare Metal Node|OpenShift Virtualization Engine
+RH-OPENSHIFT-PLATPLUS,Red Hat,OpenShift Platform Plus,,,Per Core-Pair Subscription,OpenShift Platform Plus
+RH-ANSIBLE,Red Hat,Ansible Automation Platform,,,Per Managed Node Subscription,Red Hat Ansible Automation Platform|Ansible Automation Platform|AAP|Ansible Tower
+RH-JBOSS-EAP,Red Hat,JBoss Enterprise Application Platform,,,Per Core-Pair or Per Socket-Pair Subscription,JBoss EAP|Red Hat JBoss Enterprise Application Platform
+RH-JBOSS-FUSE,Red Hat,JBoss Fuse,,,Per Core-Pair Subscription,Red Hat JBoss Fuse|JBoss Fuse
+RH-CEPH,Red Hat,Ceph Storage,,,Per Terabyte Subscription,Red Hat Ceph Storage|Ceph Storage
+RH-RHV,Red Hat,Virtualization (RHV),,,Per Socket-Pair Subscription (EOL 2024 - migrate to OpenShift Virtualization),Red Hat Virtualization|RHV|RHEV
+ADOBE-CC-PHOTOSHOP,Adobe,Creative Cloud,Photoshop (Single App),,Named User Subscription,Adobe Photoshop|Photoshop CC|Photoshop
+ADOBE-CC-ILLUSTRATOR,Adobe,Creative Cloud,Illustrator (Single App),,Named User Subscription,Adobe Illustrator|Illustrator CC|Illustrator
+ADOBE-CC-INDESIGN,Adobe,Creative Cloud,InDesign (Single App),,Named User Subscription,Adobe InDesign|InDesign CC|InDesign
+ADOBE-CC-PREMIERE-PRO,Adobe,Creative Cloud,Premiere Pro (Single App),,Named User Subscription,Adobe Premiere Pro|Premiere Pro CC|Premiere Pro
+ADOBE-CC-AFTER-EFFECTS,Adobe,Creative Cloud,After Effects (Single App),,Named User Subscription,Adobe After Effects|After Effects CC|After Effects
+ADOBE-CC-LIGHTROOM,Adobe,Creative Cloud,Lightroom (Single App),,Named User Subscription,Adobe Lightroom|Lightroom CC|Lightroom
+ADOBE-CC-LIGHTROOM-CLASSIC,Adobe,Creative Cloud,Lightroom Classic (Single App),,Named User Subscription,Adobe Lightroom Classic|Lightroom Classic CC|Lightroom Classic
+ADOBE-CC-XD,Adobe,Creative Cloud,XD (Single App),,Named User Subscription,Adobe XD|XD CC|XD
+ADOBE-CC-ANIMATE,Adobe,Creative Cloud,Animate (Single App),,Named User Subscription,Adobe Animate|Animate CC|Animate
+ADOBE-CC-AUDITION,Adobe,Creative Cloud,Audition (Single App),,Named User Subscription,Adobe Audition|Audition CC|Audition
+ADOBE-CC-DREAMWEAVER,Adobe,Creative Cloud,Dreamweaver (Single App),,Named User Subscription,Adobe Dreamweaver|Dreamweaver CC|Dreamweaver
+ADOBE-CC-BRIDGE,Adobe,Creative Cloud,Bridge (Single App),,Named User Subscription,Adobe Bridge|Bridge CC|Bridge
+ADOBE-CC-MEDIA-ENCODER,Adobe,Creative Cloud,Media Encoder (Single App),,Named User Subscription,Adobe Media Encoder|Media Encoder CC|Media Encoder
+ADOBE-CC-ACROBAT-DISTILLER,Adobe,Creative Cloud,Acrobat Distiller (Single App),,Named User Subscription,Adobe Acrobat Distiller|Acrobat Distiller CC|Acrobat Distiller
+ADOBE-CC-ALLAPPS,Adobe,Creative Cloud,All Apps,,Named User Subscription,Adobe Creative Cloud All Apps|Creative Cloud All Apps|Adobe CC All Apps
+ADOBE-ACROPRO-DC,Adobe,Acrobat,Pro DC,,Named User Subscription,Adobe Acrobat Pro DC|Acrobat Pro DC|Adobe Acrobat Professional
+ADOBE-ACROSTD-DC,Adobe,Acrobat,Standard DC,,Named User Subscription,Adobe Acrobat Standard DC|Acrobat Standard DC
+ADOBE-ACROBAT-READER,(Freeware),Adobe Acrobat Reader,,,Free (no license required),Adobe Acrobat Reader|Acrobat Reader DC|Adobe Acrobat Reader MUI|Adobe Reader
+ADOBE-AEM,Adobe,Experience Manager,,,Enterprise Subscription (contract-specific),Adobe Experience Manager|AEM
+ADOBE-CAPTIVATE,Adobe,Captivate,,,Named User Subscription,Adobe Captivate|Captivate
+ADOBE-COLDFUSION,Adobe,ColdFusion,,,Per Core or Per Server,Adobe ColdFusion|ColdFusion
+ADOBE-SIGN,Adobe,Acrobat Sign,,,Per User or Per Transaction Subscription,Adobe Acrobat Sign|Adobe Sign|EchoSign
+ADOBE-ARM,(Component),Adobe Acrobat/Reader Update Component,,,Not separately licensable (bundled updater),Adobe Refresh Manager|Adobe ARM|Adobe Acrobat Update Service
+ADOBE-LANGPACK,(Component),Adobe Acrobat/Reader Language Pack,,,Not separately licensable (bundled language/font component),Extended Asian Language font pack for Adobe Acrobat Reader|Adobe Acrobat Reader Language Pack|Adobe Reader MUI Language Pack
+ADOBE-GENUINE,(Component),Adobe Genuine Software Integrity Service,,,Not separately licensable (bundled service),Adobe Genuine Software Integrity Service|Adobe Genuine Service|AGS
+SAP-USER-PROFESSIONAL-USER,SAP,ERP / S4HANA,Professional User,,Named User (classification drives price - common audit gap),SAP Professional User|SAP ERP Professional User|SAP S/4HANA Professional User
+SAP-USER-LIMITED-PROFESSIONAL-USER,SAP,ERP / S4HANA,Limited Professional User,,Named User (classification drives price - common audit gap),SAP Limited Professional User|SAP ERP Limited Professional User|SAP S/4HANA Limited Professional User
+SAP-USER-EMPLOYEE-SELF-SERVICE-USER,SAP,ERP / S4HANA,Employee Self-Service User,,Named User (classification drives price - common audit gap),SAP Employee Self-Service User|SAP ERP Employee Self-Service User|SAP S/4HANA Employee Self-Service User
+SAP-USER-DEVELOPER-USER,SAP,ERP / S4HANA,Developer User,,Named User (classification drives price - common audit gap),SAP Developer User|SAP ERP Developer User|SAP S/4HANA Developer User
+SAP-USER-LOGISTICS-USER,SAP,ERP / S4HANA,Logistics User,,Named User (classification drives price - common audit gap),SAP Logistics User|SAP ERP Logistics User|SAP S/4HANA Logistics User
+SAP-S4HANA-ONPREM,SAP,S/4HANA,On-Premise,,Named User + Engine metrics,SAP S/4HANA|S4HANA|SAP S/4HANA On-Premise
+SAP-S4HANA-CLOUD,SAP,S/4HANA Cloud,,,Subscription / FUE (Full Use Equivalent),SAP S/4HANA Cloud|S4HANA Cloud
+SAP-HANA-DB,SAP,HANA Database,,,Per 64GB Memory Block or Runtime license,SAP HANA|SAP HANA Database|HANA DB
+SAP-BUSINESSOBJECTS,SAP,BusinessObjects BI,,,Named User or Concurrent Session,SAP BusinessObjects|BusinessObjects BI|SAP BO
+SAP-SUCCESSFACTORS,SAP,SuccessFactors,,,Per Employee Subscription,SAP SuccessFactors|SuccessFactors
+SAP-ARIBA,SAP,Ariba,,,Subscription (spend-based or user-based),SAP Ariba|Ariba
+SAP-CONCUR,SAP,Concur,,,Per Expense Report or Per User Subscription,SAP Concur|Concur
+SAP-GUI,(Component),SAP GUI,,,Not separately licensable (client access component),SAP GUI|SAP Logon|SAPGUI
+VERITAS-NBU-CAPACITY,Veritas (Cohesity),NetBackup,Capacity Edition,,"Front-End Terabyte (FETB) - protected data, not backup copies",Veritas NetBackup Capacity Edition|NetBackup Capacity Edition|NBU Capacity
+VERITAS-NBU-COMPLETE,Veritas (Cohesity),NetBackup,Complete Edition,,FETB Plus (workload multiplier applies),Veritas NetBackup Complete Edition|NetBackup Complete Edition
+VERITAS-NBU-ENT,Veritas (Cohesity),NetBackup,Enterprise,,FETB Plus (all workloads),Veritas NetBackup Enterprise|NetBackup Enterprise
+VERITAS-NBU-TRAD,Veritas (Cohesity),NetBackup,Traditional,,Per Client / Agent / Server (legacy meters),Veritas NetBackup|NetBackup|NBU
+VERITAS-BACKUPEXEC,Veritas (Cohesity),Backup Exec,,,Instance metering or Capacity metering,Veritas Backup Exec|Backup Exec|BE
+VERITAS-INFOSCALE-STORAGE,Veritas (Cohesity),InfoScale,Storage,,Per Socket (physical or virtual server),Veritas InfoScale Storage|InfoScale Storage
+VERITAS-INFOSCALE-AVAIL,Veritas (Cohesity),InfoScale,Availability,,Per Socket (physical or virtual server),Veritas InfoScale Availability|InfoScale Availability|Veritas Cluster Server|VCS
+VERITAS-INFOSCALE-ENT,Veritas (Cohesity),InfoScale,Enterprise,,Per Socket (physical or virtual server),Veritas InfoScale Enterprise|InfoScale Enterprise|Storage Foundation
+VERITAS-ENTERPRISE-VAULT,Veritas (Cohesity),Enterprise Vault,,,Per User or Per Terabyte,Veritas Enterprise Vault|Enterprise Vault
+VERITAS-RESILIENCY,Veritas (Cohesity),Resiliency Platform,,,"Per FETB, Per Core, or Per VM",Veritas Resiliency Platform|Resiliency Platform
+CITRIX-CVAD-ADV,Citrix (Cloud Software Group),Virtual Apps and Desktops,Advanced,,Per User/Device or Concurrent User,Citrix Virtual Apps and Desktops Advanced|CVAD Advanced|XenApp Advanced
+CITRIX-CVAD-PREM,Citrix (Cloud Software Group),Virtual Apps and Desktops,Premium,,Per User/Device or Concurrent User,Citrix Virtual Apps and Desktops Premium|CVAD Premium|XenDesktop Premium
+CITRIX-DAAS,Citrix (Cloud Software Group),DaaS,,,Per User/Device Subscription,Citrix DaaS|Citrix Cloud DaaS
+CITRIX-ADC,Citrix (Cloud Software Group),ADC (NetScaler),,,"Per Appliance, vCPU, or Bandwidth",Citrix ADC|NetScaler|Citrix NetScaler|NetScaler ADC
+CITRIX-WORKSPACE-APP,(Component),Citrix Workspace App,,,Not separately licensable (client agent),Citrix Workspace App|Citrix Receiver
+CITRIX-PROVISIONING,Citrix (Cloud Software Group),Provisioning Services,,,Per Device (included in CVAD editions),Citrix Provisioning Services|Citrix PVS
+AUTODESK-AUTOCAD,Autodesk,AutoCAD,,,Named User Subscription (single-user or flex tokens),Autodesk AutoCAD|AutoCAD
+AUTODESK-REVIT,Autodesk,Revit,,,Named User Subscription,Autodesk Revit|Revit
+AUTODESK-INVENTOR,Autodesk,Inventor,,,Named User Subscription,Autodesk Inventor|Inventor Professional|Inventor
+AUTODESK-MAYA,Autodesk,Maya,,,Named User Subscription,Autodesk Maya|Maya
+AUTODESK-3DSMAX,Autodesk,3ds Max,,,Named User Subscription,Autodesk 3ds Max|3ds Max
+AUTODESK-CIVIL3D,Autodesk,Civil 3D,,,Named User Subscription,Autodesk Civil 3D|Civil 3D
+AUTODESK-AEC,Autodesk,AEC Collection,,,Named User Subscription (product bundle),Autodesk AEC Collection|AEC Collection|Architecture Engineering Construction Collection
+SAS-BASE,SAS Institute,SAS Base,,,Per Core or Named User (annual license),SAS Base|Base SAS
+SAS-ANALYTICS-PRO,SAS Institute,SAS Analytics Pro,,,Per Core or Named User,SAS Analytics Pro
+SAS-VIYA,SAS Institute,SAS Viya,,,Per Core Subscription,SAS Viya|Viya
+SAS-EG,SAS Institute,SAS Enterprise Guide,,,Included with SAS platform license,SAS Enterprise Guide|Enterprise Guide
+MATHWORKS-MATLAB,MathWorks,MATLAB,,,"Named User, Concurrent (network), or Campus-Wide",MathWorks MATLAB|MATLAB
+MATHWORKS-SIMULINK,MathWorks,Simulink,,,Named User or Concurrent (network),MathWorks Simulink|Simulink
+ANSYS-MECHANICAL,ANSYS,Mechanical,,,Per Task (lease/paid-up) or HPC Pack,ANSYS Mechanical|Ansys Mechanical
+ANSYS-FLUENT,ANSYS,Fluent,,,Per Task (lease/paid-up) or HPC Pack,ANSYS Fluent|Ansys Fluent
+DASSAULT-SOLIDWORKS,Dassault Systèmes,SOLIDWORKS,,,Standalone (per seat) or Network (floating),SOLIDWORKS|SolidWorks
+DASSAULT-CATIA,Dassault Systèmes,CATIA,,,Per Seat or Token,CATIA|Dassault CATIA
+PTC-CREO,PTC,Creo,,,Named User or Floating Subscription,PTC Creo|Creo Parametric|Creo
+PTC-WINDCHILL,PTC,Windchill,,,Named User Subscription,PTC Windchill|Windchill
+SIEMENS-NX,Siemens,NX,,,Named User or Floating (token),Siemens NX|NX|Unigraphics NX
+SIEMENS-TEAMCENTER,Siemens,Teamcenter,,,Named User Subscription,Siemens Teamcenter|Teamcenter
+ATLASSIAN-JIRA-DC,Atlassian,Jira Software,Data Center,,Per User Tier Subscription,Jira Software Data Center|Jira Data Center
+ATLASSIAN-JIRA-CLOUD,Atlassian,Jira Software,Cloud,,Per User Subscription,Jira Software Cloud|Jira Software|Jira
+ATLASSIAN-CONFLUENCE-DC,Atlassian,Confluence,Data Center,,Per User Tier Subscription,Confluence Data Center
+ATLASSIAN-CONFLUENCE-CLOUD,Atlassian,Confluence,Cloud,,Per User Subscription,Confluence Cloud|Confluence
+ATLASSIAN-BITBUCKET,Atlassian,Bitbucket,,,Per User Subscription,Bitbucket|Atlassian Bitbucket
+SALESFORCE-SALES,Salesforce,Sales Cloud,,,Per User Subscription (edition-tiered),Salesforce Sales Cloud|Sales Cloud
+SALESFORCE-SERVICE,Salesforce,Service Cloud,,,Per User Subscription (edition-tiered),Salesforce Service Cloud|Service Cloud
+SERVICENOW-ITSM,ServiceNow,ITSM,,,Per Fulfiller User Subscription,ServiceNow ITSM|ServiceNow IT Service Management
+SERVICENOW-SAM,ServiceNow,SAM Pro,,,Per Managed Asset Subscription,ServiceNow SAM Pro|ServiceNow Software Asset Management
+SPLUNK-ENT,Splunk (Cisco),Splunk Enterprise,,,Per Daily Ingest Volume (GB/day) or Workload (SVC),Splunk Enterprise|Splunk
+ELASTIC-ES,Elastic,Elasticsearch,,,Per Node or Resource Unit Subscription,Elasticsearch|Elastic Stack|ELK
+TABLEAU-DESKTOP,Salesforce (Tableau),Tableau Desktop,,,Creator Named User Subscription,Tableau Desktop|Tableau
+TABLEAU-SERVER,Salesforce (Tableau),Tableau Server,,,Creator/Explorer/Viewer Named User or Core,Tableau Server
+QLIK-SENSE,Qlik,Qlik Sense,,,Per User or Capacity Subscription,Qlik Sense|QlikSense
+ALTERYX-DESIGNER,Alteryx,Designer,,,Named User Subscription,Alteryx Designer|Alteryx
+JETBRAINS-INTELLIJ,JetBrains,IntelliJ IDEA,Ultimate,,Per User Subscription,IntelliJ IDEA Ultimate|IntelliJ IDEA|IntelliJ
+JETBRAINS-PYCHARM,JetBrains,PyCharm,Professional,,Per User Subscription,PyCharm Professional|PyCharm
+GITLAB-PREMIUM,GitLab,GitLab,Premium,,Per User Subscription,GitLab Premium
+GITLAB-ULTIMATE,GitLab,GitLab,Ultimate,,Per User Subscription,GitLab Ultimate
+GITHUB-ENT,Microsoft (GitHub),GitHub Enterprise,,,Per User Subscription,GitHub Enterprise|GitHub Enterprise Server
+HASHICORP-TERRAFORM,HashiCorp (IBM),Terraform,Enterprise,,Per Workspace or Resource Under Management,Terraform Enterprise|HashiCorp Terraform
+HASHICORP-VAULT,HashiCorp (IBM),Vault,Enterprise,,Per Client or Node Subscription,Vault Enterprise|HashiCorp Vault
+VEEAM-BR,Veeam,Backup & Replication,,,Per Instance (VUL) or Per Socket (legacy),Veeam Backup & Replication|Veeam Backup and Replication|VBR
+VEEAM-ONE,Veeam,ONE,,,Per Instance (VUL),Veeam ONE
+COMMVAULT-COMPLETE,Commvault,Complete Backup & Recovery,,,Per Front-End Terabyte or Per VM,Commvault Complete|Commvault Backup|Commvault
+SOPHOS-ENDPOINT,Sophos,Intercept X Endpoint,,,Per User or Per Device Subscription,Sophos Intercept X|Sophos Endpoint
+CROWDSTRIKE-FALCON,CrowdStrike,Falcon,,,Per Endpoint Subscription,CrowdStrike Falcon|Falcon Sensor
+TRENDMICRO-APEX,Trend Micro,Apex One,,,Per User or Per Device Subscription,Trend Micro Apex One|Apex One|OfficeScan
+SYMANTEC-SEP,Broadcom (Symantec),Endpoint Protection,,,Per Endpoint Subscription,Symantec Endpoint Protection|SEP
+MCAFEE-ENDPOINT,Trellix (McAfee),Endpoint Security,,,Per Node Subscription,McAfee Endpoint Security|Trellix Endpoint Security|McAfee ENS
+SNOWFLAKE-DW,Snowflake,Data Cloud,,,Consumption-based (credits),Snowflake|Snowflake Data Cloud
+MONGODB-ENT,MongoDB,Enterprise Advanced,,,Per Server or Per Core Subscription,MongoDB Enterprise Advanced|MongoDB Enterprise
+POSTGRESQL,(Open Source),PostgreSQL,,,Free (PostgreSQL License; no license required),PostgreSQL|Postgres
+APACHE-TOMCAT,(Open Source),Apache Tomcat,,,Free (Apache License 2.0),Apache Tomcat|Tomcat
+APACHE-HTTPD,(Open Source),Apache HTTP Server,,,Free (Apache License 2.0),Apache HTTP Server|Apache2|httpd
+NGINX-OSS,(Open Source),nginx,,,Free (BSD-2-Clause),nginx|nginx open source
+NGINX-PLUS,F5 (NGINX),NGINX Plus,,,Per Instance Subscription,NGINX Plus|F5 NGINX Plus
+ZOOM-PRO,Zoom,Zoom Workplace,Pro,,Per Host Subscription,Zoom Workplace Pro|Zoom Pro|Zoom Meetings
+SLACK-BUSINESS,Salesforce (Slack),Slack,Business+,,Per Active User Subscription,Slack Business+|Slack
+DOCUSIGN-BUSINESS,Docusign,eSignature,Business Pro,,Per User Subscription (envelope limits),DocuSign eSignature|DocuSign
+DROPBOX-BUSINESS,Dropbox,Business,,,Per User Subscription,Dropbox Business|Dropbox
+BOX-BUSINESS,Box,Business,,,Per User Subscription,Box Business|Box
+FREE-7ZIP,(Freeware),7-Zip,,,Free (no license required),7-Zip|7Zip|7z
+FREE-NOTEPAD,(Freeware),Notepad++,,,Free (no license required),Notepad++|Notepad Plus Plus
+FREE-GOOGLECHROME,(Freeware),Google Chrome,,,Free (no license required),Google Chrome|Chrome
+FREE-MOZILLAFIREFOX,(Freeware),Mozilla Firefox,,,Free (no license required),Mozilla Firefox|Firefox
+FREE-MICROSOFTEDGE,(Freeware),Microsoft Edge,,,Free (no license required),Microsoft Edge|Edge
+FREE-VLCMEDIAPLAYER,(Freeware),VLC Media Player,,,Free (no license required),VLC Media Player|VLC
+FREE-PUTTY,(Freeware),PuTTY,,,Free (no license required),PuTTY
+FREE-WINSCP,(Freeware),WinSCP,,,Free (no license required),WinSCP
+FREE-FILEZILLA,(Freeware),FileZilla,,,Free (no license required),FileZilla
+FREE-GIT,(Freeware),Git,,,Free (no license required),Git|Git for Windows
+FREE-PYTHON,(Freeware),Python,,,Free (no license required),Python|Python 3
+FREE-NODEJS,(Freeware),Node.js,,,Free (no license required),Node.js|NodeJS
+FREE-WIRESHARK,(Freeware),Wireshark,,,Free (no license required),Wireshark
+FREE-AUDACITY,(Freeware),Audacity,,,Free (no license required),Audacity
+FREE-GIMP,(Freeware),GIMP,,,Free (no license required),GIMP
+COMP-MICROSOFTVISUALCREDI,(Component),Microsoft Visual C++ Redistributable,,,Not separately licensable (runtime/driver/component),Microsoft Visual C++ Redistributable|Visual C++ Redistributable|VC++ Redistributable
+COMP-NETFRAMEWORK,(Component),.NET Framework,,,Not separately licensable (runtime/driver/component),.NET Framework|Microsoft .NET Framework|dotnet framework
+COMP-NETRUNTIME,(Component),.NET Runtime,,,Not separately licensable (runtime/driver/component),.NET Runtime|Microsoft .NET Runtime|dotnet runtime
+COMP-JAVARUNTIMEENVIRONME,(Component),Java Runtime Environment,,,Not separately licensable (runtime/driver/component),Java Runtime Environment|JRE|Java 8 Update
+COMP-MICROSOFTUPDATEHEALT,(Component),Microsoft Update Health Tools,,,Not separately licensable (runtime/driver/component),Microsoft Update Health Tools|Update Health Tools
+COMP-MICROSOFTEDGEWEBVIEW,(Component),Microsoft Edge WebView2 Runtime,,,Not separately licensable (runtime/driver/component),Microsoft Edge WebView2 Runtime|WebView2 Runtime
+COMP-INTELDRIVERPACKAGE,(Component),Intel Driver Package,,,Not separately licensable (runtime/driver/component),Intel Driver|Intel Chipset Device Software
+COMP-NVIDIAGRAPHICSDRIVER,(Component),NVIDIA Graphics Driver,,,Not separately licensable (runtime/driver/component),NVIDIA Graphics Driver|NVIDIA Display Driver
