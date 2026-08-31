@@ -1,0 +1,23 @@
+Host Name	Name	Vendor	Version	Install Location
+SRV-001	VMware ESXi	VMware Inc	8.0.2	
+SRV-002	VMware vCenter Server	Broadcom Inc	8.0.2	C:\Program Files\VMware\vCenter\
+SRV-003	VMware Cloud Foundation	VMware by Broadcom	9.0	
+SRV-004	vSphere Enterprise Plus	Broadcom	8.0	
+SRV-005	Red Hat Enterprise Linux Server	Red Hat, Inc.	8.9	
+SRV-006	Red Hat Enterprise Linux for Virtual Datacenters	Red Hat Inc	9.2	
+SRV-007	Red Hat OpenShift Container Platform	Red Hat	4.14	
+SRV-008	Ansible Automation Platform	Red Hat, Inc.	2.4	
+SRV-009	JBoss EAP	Red Hat Inc	7.4	
+SRV-010	IBM Db2 Advanced Enterprise Server Edition	IBM Corporation	11.5	
+SRV-011	IBM WebSphere Application Server Network Deployment	International Business Machines	9.0.5	
+SRV-012	IBM License Metric Tool	IBM Corp	9.2	
+SRV-013	SPSS Statistics	IBM Corporation	29.0	
+SRV-014	Oracle Database Enterprise Edition	Oracle Corporation	19.3	D:\Oracle\product\19.0.0\
+SRV-015	Oracle Real Application Clusters	Oracle America Inc	19.3	
+SRV-016	Oracle WebLogic Server Enterprise Edition	Oracle Corporation	14.1.1	
+SRV-017	Oracle GoldenGate	Oracle Corporation	21.3	
+WKS-018	Microsoft SQL Server 2022 Enterprise	Microsoft Corporation	16.0	
+WKS-019	Microsoft 365 Copilot	Microsoft Corporation	1.0	
+WKS-020	Adobe Acrobat Pro DC	Adobe Systems Incorporated	23.008	
+WKS-021	Adobe InDesign	Adobe Inc	18.5	
+WKS-022	Adobe Photoshop	Adobe Systems Incorporated	25.0	

@@ -1,0 +1,40 @@
+Name,Version,Path
+zsawdrv.sys,14.2.0,C:\Program Files\Zscaler\ZSAWFPDriver\arm64\
+zsawdrv.sys,14.2.0,C:\Program Files\Zscaler\ZSAWFPDriver\amd64\
+zapprd.sys,3.6.0.0,C:\Program Files\Zscaler\ZSAFilterDriver\win10\arm64\
+zapprd.sys,3.6.0.0,C:\Windows.old\Windows\System32\DriverStore\FileRepository\zapprd.inf_amd64_474f234a17a9844c\
+zsawdrv.sys,1.2.2.1,C:\Program Files\Zscaler\ZSAFilterDriver\win10\i386\
+zsawdrv.sys,1.2.2.1,C:\Program Files\Zscaler\ZSAWFPDriver\arm64\
+zapprd.sys,3.4.0.0,C:\Program Files\Zscaler\ZSAWFPDriver\amd64\
+zapprd.sys,3.4.0.0,C:\Program Files\Zscaler\ZSAFilterDriver\win10\arm64\
+ZEPService.exe,22.10.0.35,C:\Program Files\Zscaler\ZEP\
+ZEPService.exe,23.11.6.1,C:\Program Files\Zscaler\ZEP\
+zepprotect.sys,23.11.5.1,C:\Program Files\Zscaler\ZEP\
+$R2NIJ386.exe,6.1.10.43,C:\$Recycle.Bin\S-1-12-1-376066226-1234177291-760413568-2597087386\
+$RL78TSR.exe,6.0.0.32,C:\$Recycle.Bin\S-1-12-1-2041382298-1132659123-374575796-1552372967\
+InternetUsers_Agent_26Aug23.exe,,C:\Users\RamaiahC\Downloads\
+ZAFileTransfer.exe,111.0.3.200,C:\Users\RamaiahC\AppData\Local\ZohoMeeting\
+ToolsIQ.exe,1.0.0.2,C:\Users\GULSARM\AppData\Local\ZohoMeeting\
+RunAsTool_x64.exe,1.4.0.0,D:\NEW MACHINE SOFTWARE\Software for Fresh\
+wpaexporter.exe,11.7.383.39833,C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\
+WPA.exe,11.7.383.39833,C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\
+WzPreviewer64.exe,,C:\Program Files\WinZip\
+W2MSG.EXE,28.0 (32-bit),C:\Program Files\WinZip\
+WebAuthBroker.exe,28.0.15620.0,C:\Program Files\WinZip\
+OutlookPDHelper.exe,28.0.15620.0,C:\Program Files\WinZip\
+BrCow_4_4_21_937.sys,10.0.10011.16384,C:\Program Files\HP\Sure Click\4.4.21.937\servers\BrCow\
+BrCow_4_1_9_1290.sys,10.0.10011.16384,C:\Program Files\HP\Sure Click\servers\BrCow\
+129B9C49340EA629EC3177B53ECE43346B72D0AC.sys,6.3.9600.17336,C:\ProgramData\dell\saremediation\SystemRepair\Snapshots\Backup\
+hidkmdf.sys,6.1.7600.16385 built by: WinDDK,C:\Program Files\Dell\Tablet\
+bcmfn2.sys,6.3.9600.17336,D:\Windows\WinSxS\amd64_dual_bcmfn2.inf_31bf3856ad364e35_10.0.18362.1_none_d6b6852abb1bf4b0\
+sqlservr.exe,15.0.2000.5,C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\Binn\
+EXCEL.EXE,16.0.17126.20132,C:\Program Files\Microsoft Office\root\Office16\
+WINWORD.EXE,16.0.17126.20132,C:\Program Files\Microsoft Office\root\Office16\
+Acrobat.exe,23.008.20421,C:\Program Files\Adobe\Acrobat DC\Acrobat\
+AcroRd32.exe,23.008.20421,C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\
+AdobeARM.exe,1.824.42.7115,C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\
+vmtoolsd.exe,12.3.5.46049,C:\Program Files\VMware\VMware Tools\
+chrome.exe,121.0.6167.85,C:\Program Files\Google\Chrome\Application\
+7zFM.exe,23.01,C:\Program Files\7-Zip\
+setup.exe,1.0.0.0,C:\Users\Public\Downloads\
+db2syscs.exe,11.5.8.0,C:\Program Files\IBM\SQLLIB\BIN\

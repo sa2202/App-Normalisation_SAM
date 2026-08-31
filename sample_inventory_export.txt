@@ -1,0 +1,7 @@
+Host Name	Serial	IP Address	Name	Vendor	Version	Install Date	Install Source	Install Location	Comments
+IN5CG5173M9S	5CG5173M9S	10.167.134.98	Adobe Refresh Manager	Adobe Systems Incorporated	1.8.0	20260211		C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\Cache\	C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\
+IN5CG5173M9S	5CG5173M9S	10.167.134.98	Extended Asian Language font pack for Adobe Acrobat Reader	Adobe Systems Incorporated	23.008.20421	20250618	C:\ProgramData\AirWatchMDM\Apps\{A3D43A9C-53A3-44BF-A9A2-CDBB364E0372}\Files\	C:\Program Files (x86)\Adobe\Acrobat Reader DC\	
+IN5CG5173M9S	5CG5173M9S	10.167.134.98	Adobe Acrobat Reader MUI	Adobe Systems Incorporated	26.001.21789	20260813	C:\Windows\Software\Adobe_AcrobatReaderMUI_24.003.20180_MUI_01\	C:\Program Files (x86)\Adobe\Acrobat Reader DC\	
+IN5CG5173M9S	5CG5173M9S	10.167.134.98	Microsoft SQL Server 2019	Microsoft Corporation	15.0.2000.5	20250312		C:\Program Files\Microsoft SQL Server\	
+IN5CG5173M9S	5CG5173M9S	10.167.134.98	7-Zip 23.01	Igor Pavlov	23.01	20250115		C:\Program Files\7-Zip\	
+IN5CG5173M9S	5CG5173M9S	10.167.134.98	Oracle Database 19c Enterprise	Oracle Corporation	19.3.0	20241102		D:\Oracle\product\19.0.0\	

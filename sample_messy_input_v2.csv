@@ -1,0 +1,46 @@
+line_item,raw_product_name,qty,source_system
+1,SQL SVR STD 2019,40,SCCM
+2,sql server 2019 std edtn,12,Procurement
+3,Microsoft SQL Svr Standard 2019 - 2Core Pk,8,Reseller Invoice
+4,SQLSVRSTD19,5,SCCM
+5,Sql  Server   Standard  2019,3,Manual Entry
+6,WINSVR STD 2022 (2 CPU),120,SCCM
+7,Win Svr Datacenter Edtn 2022,6,Procurement
+8,windows server std 2022 2-core,15,Reseller Invoice
+9,M365 E3 Subscrp,300,Procurement
+10,MSFT 365 E5 Sub,45,Reseller Invoice
+11,o365 e3,80,SCCM
+12,Office Std Edtn 2021,22,Procurement
+13,MS Project Std,9,Manual Entry
+14,MSVISIOSTD,4,SCCM
+15,Oracle DB EE 19c NUP,4,Procurement
+16,ORACLE DATABASE ENT ED 19C,2,Reseller Invoice
+17,oracle db se2,10,SCCM
+18,Oracle WebLogic Svr EE,3,Procurement
+19,IBM Db2 AESE PVU,10,Reseller Invoice
+20,ibm websphere as nd,7,SCCM
+21,Adobe CCD All Apps,60,Procurement
+22,ADOBE ACRO PRO DC,25,Reseller Invoice
+23,acrobat professional dc subscrp,5,Manual Entry
+24,SAP ERP Prof Usr,200,Procurement
+25,sap limited prof user,50,Reseller Invoice
+26,RHEL Server 8 - Standard,18,SCCM
+27,VMW vSphere Ent Plus,30,Procurement
+28,vcsa 7.0,2,Manual Entry
+29,Windows 10 Pro (OEM),450,SCCM
+30,Win11 Ent,200,Procurement
+31,P73-07677,6,Reseller Invoice
+32,9EN-00001,10,Reseller Invoice
+33,Crystal Reports 2020 - Runtime,3,Manual Entry
+34,NOTEPAD++,999,SCCM
+35,7ZIP,850,SCCM
+36,Google Chrome,1200,SCCM
+37,zoom workplace pro,150,Procurement
+38,Slack - Business+ Plan,90,Procurement
+39,,5,SCCM
+40,UNKNOWN - see notes,1,Manual Entry
+41,asdkjaslkdj123,1,SCCM
+42,"Microsoft, SQL, Server, 2019, Std",6,Manual Entry
+43,MICROSOFT SQL SERVER 2019 STANDARD EDITION (FULL USE),4,Reseller Invoice
+44,office365 e3 (legacy sku - do not use),15,Procurement
+45,Win Svr Std 2019 -- DECOMMISSIONED,0,SCCM
